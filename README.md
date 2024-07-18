@@ -4,10 +4,10 @@ It is a Sanke Game in C++
 
 We can play the game:\
   [ 'a' to move in west direction ]
-  [ 's' to move in south direction ]
-  [ 'w' to move in north direction ]
-  [ 'd' to move in east direction ]
-  [ 'x' to leave the game ]
+  , [ 's' to move in south direction ]
+  , [ 'w' to move in north direction ]
+  , [ 'd' to move in east direction ]
+  , [ 'x' to leave the game ]
 
 The length of the sanke increases as the number of fruit he eats
 
